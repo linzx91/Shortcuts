@@ -1,0 +1,57 @@
+
+New TV 超级综艺
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225801/index.m3u8,
+New TV 超级体育
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225803/index.m3u8,
+New TV 超级电影
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225804/index.m3u8,
+New TV 爱情喜剧
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225877/index.m3u8,
+New TV 古装剧场
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225880/index.m3u8,
+New TV 金牌综艺
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225884/index.m3u8,
+New TV 明星大片
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225893/index.m3u8,
+New TV 惊悚悬疑
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225885/index.m3u8,
+New TV 动画王国
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225878/index.m3u8,
+New TV 精品电影
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225891/index.m3u8,
+New TV 动作电影
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225879/index.m3u8,
+New TV 家庭剧场
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225882/index.m3u8,
+New TV 海外剧场
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225881/index.m3u8,
+New TV 军旅剧场
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225887/index.m3u8,
+New TV 军事评论
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225890/index.m3u8,
+New TV 电竞频道
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225894/index.m3u8,
+New TV 精品体育
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225886/index.m3u8,
+New TV 健康有约
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225883/index.m3u8,
+New TV 精品纪录
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225888/index.m3u8,
+New TV 精品大剧
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225889/index.m3u8,
+New TV 搏击频道
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225895/index.m3u8,
+New TV 中国功夫
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225896/index.m3u8,
+New TV 潮妈辣婆
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226107/index.m3u8,
+New TV 炫舞未来
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226699/index.m3u8,
+New TV 农业致富
+http://223.110.243.155:80/PLTV/3/224/3221225537/index.m3u8,
+New TV 超级电视剧
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225928/index.m3u8,
+☵ 返回上级 ☵
+back,
+☶ 返回主页 ☶
+home

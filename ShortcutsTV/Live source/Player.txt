@@ -1,0 +1,23 @@
+
+内置播放器 (默认)
+Shortcuts,
+nPlayer
+nplayer-,
+APlayer
+aplayer://,
+PlayerXtreme
+playerxtreme://,
+VLC 播放器
+vlc://,
+Infuse 播放器
+infuse://,
+Safari 浏览器
+Safari,
+Alook 浏览器
+alook://,
+QQ浏览器
+mttbrowser://url=,
+UC浏览器
+ucbrowser://,
+添加 URL Schemes
+add url schemes

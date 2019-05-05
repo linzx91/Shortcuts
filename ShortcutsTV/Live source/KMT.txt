@@ -1,0 +1,107 @@
+
+香港卫视
+http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8,
+凤凰香港
+http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8,
+TVB 翡翠台
+http://123.207.42.38/tvb.php?type=jade,
+TVB 财经资讯
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8,
+TVB 娱乐新闻
+http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil,
+香港開电视
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8,
+有线新闻台
+http://ottproxy1.mott.tv/livehls/MOB-SCC/01.m3u8?token=128c23e3733abd26b35145f59b2bf86f94e726a5ceeaa96ea0139b483cb2ae928efd5679243064b8904e1fcd84b2cddb&sessionID=suBYLNfg49z4,
+RTHK31 (香港)
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8,
+澳门卫视
+http://stream.mastvnet.com/MSTV/SD/live.m3u8,
+澳亚卫视
+http://stream.mastvnet.com/MASTV/sd/live.m3u8,
+澳门莲花
+http://3xhtut.hls1.z1.pili.qiniucdn.com/lotustv/5562e9e4d409d24c9600075c.m3u8,
+澳门 1
+http://61.244.22.4/ch3/ch3.live/playelist.m3u8,
+澳门 2
+http://61.244.22.4/ch2/ch2.live/playelist.m3u8,
+澳视澳门
+http://61.244.22.4/ch1/ch1.live/playelist.m3u8,
+澳视体育
+http://103.233.191.135/ch6/hd_ch6.live/playerlist.m3u8,
+NEXT TV 壹新闻
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8,
+台视新闻
+http://live.italkdd.com/cds160/hls/channel006/channel006_2000.m3u8,
+东森新闻
+http://live.italkdd.com/cds160/hls/channel019/channel019_2000.m3u8,
+华视咨讯
+http://live.italkdd.com/cds160/hls/channel005/channel005_2000.m3u8,
+中旺电视
+http://live.italkdd.com/cds160/hls/channel008/channel008_2000.m3u8,
+民视新闻
+http://210.61.56.23/hls/ftvtv/index.m3u8,
+三立新闻
+http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8,
+国会频道 1
+http://61.58.60.230:9000/live/123.m3u8,
+国会频道 2
+http://61.58.60.230:9000/live/124.m3u8,
+GoodTV
+http://live.streamingfast.net/osmflivech3.m3u8,
+GoodTV1
+http://live.streamingfast.net/osmflivech5.m3u8,
+GoodTV2
+http://live.streamingfast.net/osmflivech2.m3u8,
+GoodTV好消息
+http://live.streamingfast.net/osmflivech1.m3u8,
+GoodTV生活台
+http://live.streamingfast.net/osmflivech12.m3u8,
+GoodTV美食旅游台
+http://live.streamingfast.net/osmflivech14.m3u8,
+靖天资讯
+http://61.58.60.230:9000/live/202.m3u8,
+靖天国际
+http://61.58.60.230:9000/live/205.m3u8,
+靖天映画
+http://61.58.60.230:9000/live/244.m3u8,
+靖天日本
+http://61.58.60.230:9000/live/243.m3u8,
+靖天卡通
+http://61.58.60.230:9000/live/207.m3u8,
+靖天育乐
+http://61.58.60.230:9000/live/204.m3u8,
+靖天欢乐
+http://61.58.60.230:9000/live/201.m3u8,
+靖洋卡通
+http://61.58.60.230:9000/live/206.m3u8,
+靖洋戏剧
+http://61.58.60.230:9000/live/203.m3u8,
+台股资讯
+http://61.58.60.230:9000/live/200.m3u8,
+家居频道
+http://61.58.60.230:9000/live/125.m3u8,
+世新综合
+http://61.58.60.230:9000/live/49.m3u8,
+ELEVEN sports1
+http://61.58.60.230:9000/live/75.m3u8,
+ELEVEN sports2
+http://61.58.60.230:9000/live/102.m3u8,
+CNEX 纪实
+http://61.58.60.230:9000/live/257.m3u8,
+大爱一台
+http://61.58.60.230:9000/live/10.m3u8,
+大爱二台
+http://61.58.60.230:9000/live/191.m3u8,
+亚太第一卫视
+http://61.58.60.230:9000/live/254.m3u8,
+亚洲电视A1台
+https://de035ceb0768225b04e9a007abe39fca.live.prod.hkatv.com/a1_cbr_lo_1.m3u8,
+亚洲电视经典台
+https://1c3aecd176429fae1962f229fd51b1d5.live.prod.hkatv.com/a2_cbr_lo.m3u8,
+天映频道
+http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8,
+☵ 返回上级 ☵
+back,
+☶ 返回主页 ☶
+home
