@@ -1,14 +1,26 @@
+<h1 align="center">
+<sub>
+<img  src="https://raw.githubusercontent.com/linzx91/Shortcuts/master/Images/Shortcuts_logo.png"
+      height="36"
+      width="36">
+</sub>
+Shortcuts
+</h1>
 <div align="center">
-<img src="https://raw.githubusercontent.com/linzx91/Shortcuts/master/Images/Shortcuts_logo.png" height="200" width="200" >
- </div>
+  <img src="https://img.shields.io/badge/branch-master-brightgreen.svg">
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg">
+  <img src="https://jaywcjlove.github.io/sb/lang/chinese.svg">
+</div>
+<br>
+</p>
 
-## 快捷指令集
+#### 快捷指令集
 
 * [**Siri 播报天气**](https://www.icloud.com/shortcuts/e9706f16f0954e8db18d6d8cd56006ed)
 
-* [**电视直播**](https://www.icloud.com/shortcuts/86e43f6873bb4ca78dc4dec5ad0a0d74)
+* [**Shortcuts TV**](https://www.icloud.com/shortcuts/b981351c1f564c1ea4bfe79713e39216)
 
-* [**Surge Rule Updater**](https://www.icloud.com/shortcuts/92f772a844fc42e498877343a4e0841a)（仅适用于 Surge 3.4 版本以上）
+* [**Surge Rule Updater**](https://www.icloud.com/shortcuts/51711c97ca7b4b13bf342e4b83ac816a)
 
 * [**微信扫一扫**](https://www.icloud.com/shortcuts/4bbee97286fb40e2bcf26c8e70130207)
 

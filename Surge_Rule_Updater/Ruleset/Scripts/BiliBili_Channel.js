@@ -1,7 +1,10 @@
-var obj = JSON.parse(body); 
+// [MITM]
+// hostname = api.bilibili.com, app.bilibili.com
+// http-response https?://app.bilibili.com/x/channel/list script-path=https://raw.githubusercontent.com/linzx91/Shortcuts/master/Surge_Rule_Updater/Ruleset/Scripts/BiliBili_Channel.js
+
+var obj = JSON.parse(body);
 
 delete obj['data']['rec_channel'];
-
 
 obj1=obj['data']['region_top'];
 obj2=obj['data']['region_bottom'];
@@ -20,11 +23,7 @@ obj2.forEach(function (element, index, array){
 
    })
 
-
 obj['data']['region_top']=obj1;
 obj['data']['region_bottom']=obj2;
 
 JSON.stringify(obj);
-
-// [MITM]
-// hostname = api.bilibili.com, app.bilibili.com

@@ -1,4 +1,3 @@
-// ViuTV
-USER-AGENT,ViuTV*
+DOMAIN-SUFFIX,api.viu.now.com
 DOMAIN-SUFFIX,viu.tv
-DOMAIN,api.viu.now.com
+USER-AGENT,ViuTV*

@@ -1,4 +1,8 @@
-var obj = JSON.parse(body); 
+// [MITM]
+// hostname = api.bilibili.com, app.bilibili.com
+// http-response https?://app.bilibili.com/x/v2/feed script-path=https://raw.githubusercontent.com/linzx91/Shortcuts/master/Surge_Rule_Updater/Ruleset/Scripts/BiliBili_Feed.js
+
+var obj = JSON.parse(body);
 
 obj1=obj['data']['items'];
 
@@ -13,6 +17,3 @@ obj1.forEach(function (element, index, array) {
 obj['data']['items']=obj1
 
 JSON.stringify(obj);
-
-// [MITM]
-// hostname = api.bilibili.com, app.bilibili.com

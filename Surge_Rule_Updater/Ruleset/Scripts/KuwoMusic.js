@@ -1,3 +1,7 @@
+// [MITM]
+// hostname = *.kuwo.cn
+// http-response https?://vip1.kuwo.cn/vip/ script-path=https://raw.githubusercontent.com/linzx91/Shortcuts/master/Surge_Rule_Updater/Ruleset/Scripts/KuwoMusic.js
+
 var result = body
 
 let path = '/vip/v2/user/vip';
@@ -15,6 +19,3 @@ if (url.indexOf(path) != -1) {
 }
 
 result;
-
-// [MITM]
-// hostname = *.kuwo.cn

@@ -1,5 +1,0 @@
-
-开启
-open,
-关闭
-turn off

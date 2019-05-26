@@ -1,9 +1,0 @@
-2.05＊
-
-Update information links:
-https://github.com/linzx91/Shortcuts/blob/master/ShortcutsTV/UpdateInfo.md＊
-
-更新日期 2019-04-11＊
-
-Update links:
-https://raw.githubusercontent.com/linzx91/Shortcuts/master/ShortcutsTV/UpdateLink.txt＊

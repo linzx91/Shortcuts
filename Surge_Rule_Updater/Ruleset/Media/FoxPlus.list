@@ -1,6 +1,5 @@
-// Fox+
-USER-AGENT,FOXPlus*
+DOMAIN-SUFFIX,dashasiafox.akamaized.net
 DOMAIN-SUFFIX,foxplus.com
+DOMAIN-SUFFIX,staticasiafox.akamaized.net
 DOMAIN-SUFFIX,theplatform.com
-DOMAIN,staticasiafox.akamaized.net
-DOMAIN,dashasiafox.akamaized.net
+USER-AGENT,FOXPlus*

@@ -1,106 +1,60 @@
-// ABC
-DOMAIN-SUFFIX,edgedatg.com
-DOMAIN-SUFFIX,go.com
-
-// AbemaTV
-USER-AGENT,AbemaTV*
+DOMAIN-KEYWORD,bbcfmt
+DOMAIN-KEYWORD,co.uk
+DOMAIN-KEYWORD,epicgames
+DOMAIN-KEYWORD,foxplus
+DOMAIN-KEYWORD,nowe
+DOMAIN-KEYWORD,nowtv100
+DOMAIN-KEYWORD,rthklive
+DOMAIN-KEYWORD,spotify
+DOMAIN-KEYWORD,uk-live
+DOMAIN-KEYWORD,youtube
 DOMAIN-SUFFIX,abema.io
-DOMAIN-SUFFIX,ameba.jp
-DOMAIN-SUFFIX,hayabusa.io
-DOMAIN,abematv.akamaized.net
-DOMAIN,ds-linear-abematv.akamaized.net
-DOMAIN,ds-vod-abematv.akamaized.net
-DOMAIN,linear-abematv.akamaized.net
-
-// Amazon Prime Video
-USER-AGENT,InstantVideo.US*
-USER-AGENT,Prime%20Video*
+DOMAIN-SUFFIX,abematv.akamaized.net
 DOMAIN-SUFFIX,aiv-cdn.net
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,amazonvideo.com
-DOMAIN-SUFFIX,llnwd.net
-
-// Bahamut
-USER-AGENT,Anime*
+DOMAIN-SUFFIX,ameba.jp
 DOMAIN-SUFFIX,bahamut.com.tw
-DOMAIN-SUFFIX,gamer.com.tw
-DOMAIN-SUFFIX,hinet.net
-
-// BBC
-USER-AGENT,BBCiPlayer*
-DOMAIN-KEYWORD,bbcfmt
-DOMAIN-KEYWORD,co.uk
-DOMAIN-KEYWORD,uk-live
 DOMAIN-SUFFIX,bbc.co
 DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bbci.co
 DOMAIN-SUFFIX,bbci.co.uk
-
-// CHOCO TV
-USER-AGENT,TwDramas*
+DOMAIN-SUFFIX,bcbolthboa-a.akamaihd.net
 DOMAIN-SUFFIX,chocotv.com.tw
-
-// Now E
-USER-AGENT,PCCW*
-DOMAIN-KEYWORD,nowe
-DOMAIN,bcbolthboa-a.akamaihd.net
-DOMAIN-SUFFIX,nowe.com
-DOMAIN-SUFFIX,youboranqs01.com
-
-// Epicgames
-DOMAIN-KEYWORD,epicgames
-DOMAIN-SUFFIX,helpshift.com
-
-// Fox+
-USER-AGENT,FOX%20NOW*
-USER-AGENT,FOXPlus*
-DOMAIN-KEYWORD,foxplus
 DOMAIN-SUFFIX,config.fox.com
+DOMAIN-SUFFIX,ds-linear-abematv.akamaized.net
+DOMAIN-SUFFIX,ds-vod-abematv.akamaized.net
+DOMAIN-SUFFIX,edgedatg.com
 DOMAIN-SUFFIX,emome.net
+DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com
 DOMAIN-SUFFIX,fox.com
 DOMAIN-SUFFIX,foxdcg.com
 DOMAIN-SUFFIX,foxnow.com
-DOMAIN-SUFFIX,foxplus.com
 DOMAIN-SUFFIX,foxplay.com
-DOMAIN-SUFFIX,ipinfo.io
-DOMAIN-SUFFIX,mstage.io
-DOMAIN-SUFFIX,now.com
-DOMAIN-SUFFIX,theplatform.com
-DOMAIN-SUFFIX,urlload.net
-
-// HBO && HBO Go
-USER-AGENT,HBO%20NOW*
-DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com
+DOMAIN-SUFFIX,foxplus.com
+DOMAIN-SUFFIX,gamer.com.tw
+DOMAIN-SUFFIX,go.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,happyon.jp
+DOMAIN-SUFFIX,hayabusa.io
 DOMAIN-SUFFIX,hbo.com
 DOMAIN-SUFFIX,hboasia.com
 DOMAIN-SUFFIX,hbogo.com
 DOMAIN-SUFFIX,hbogoasia.hk
-
-// Hulu
-USER-AGENT,Hulu*
-DOMAIN-SUFFIX,happyon.jp
+DOMAIN-SUFFIX,helpshift.com
+DOMAIN-SUFFIX,hinet.net
 DOMAIN-SUFFIX,hulu.com
 DOMAIN-SUFFIX,huluim.com
 DOMAIN-SUFFIX,hulustream.com
-
-// Imkan
 DOMAIN-SUFFIX,imkan.tv
-
-// JOOX
-USER-AGENT,WeMusic*
-USER-AGENT,JOOX*
+DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,joox.com
-
-// MytvSUPER
-USER-AGENT,mytv*
-DOMAIN-KEYWORD,nowtv100
-DOMAIN-KEYWORD,rthklive
+DOMAIN-SUFFIX,linear-abematv.akamaized.net
+DOMAIN-SUFFIX,llnwd.net
+DOMAIN-SUFFIX,mstage.io
 DOMAIN-SUFFIX,mytvsuper.com
-DOMAIN-SUFFIX,tvb.com
-
-// Netflix
-USER-AGENT,Argo*
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netflix.net
 DOMAIN-SUFFIX,nflxext.com
@@ -108,31 +62,36 @@ DOMAIN-SUFFIX,nflximg.com
 DOMAIN-SUFFIX,nflximg.net
 DOMAIN-SUFFIX,nflxso.net
 DOMAIN-SUFFIX,nflxvideo.net
-
-// Pandora
+DOMAIN-SUFFIX,now.com
+DOMAIN-SUFFIX,nowe.com
 DOMAIN-SUFFIX,pandora.com
-
-// Sky GO
-USER-AGENT,skygo*
+DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,sky.com
 DOMAIN-SUFFIX,skygo.co.nz
-
-// SoundCloud
-USER-AGENT,SoundCloud*
-
-// Spotify
-USER-AGENT,*Spotify*
-DOMAIN-KEYWORD,spotify
-DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spoti.fi
-
-// viuTV
+DOMAIN-SUFFIX,theplatform.com
+DOMAIN-SUFFIX,tvb.com
+DOMAIN-SUFFIX,urlload.net
 DOMAIN-SUFFIX,viu.tv
-
-// Youtube
-USER-AGENT,*youtube*
-USER-AGENT,YouTube*
-DOMAIN-KEYWORD,youtube
-DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,youboranqs01.com
 DOMAIN-SUFFIX,youtu.be
+USER-AGENT,*Spotify*
+USER-AGENT,*youtube*
+USER-AGENT,AbemaTV*
+USER-AGENT,Anime*
+USER-AGENT,Argo*
+USER-AGENT,BBCiPlayer*
+USER-AGENT,FOX%20NOW*
+USER-AGENT,FOXPlus*
+USER-AGENT,HBO%20NOW*
+USER-AGENT,Hulu*
+USER-AGENT,InstantVideo.US*
+USER-AGENT,JOOX*
+USER-AGENT,PCCW*
+USER-AGENT,Prime%20Video*
+USER-AGENT,SoundCloud*
+USER-AGENT,TwDramas*
+USER-AGENT,WeMusic*
+USER-AGENT,YouTube*
+USER-AGENT,mytv*
+USER-AGENT,skygo*

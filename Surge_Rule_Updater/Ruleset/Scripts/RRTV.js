@@ -1,3 +1,7 @@
+// [MITM]
+// hostname = api.rr.tv
+// http-response https?://api.rr.tv script-path=https://raw.githubusercontent.com/linzx91/Shortcuts/master/Surge_Rule_Updater/Ruleset/Scripts/RRTV.js
+
 var result = body
 
 let path1 = '/user/profile';
@@ -29,6 +33,3 @@ if (url.indexOf(path3) != -1) {
 }
 
 result;
-
-// [MITM]
-// hostname = api.rr.tv

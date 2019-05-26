@@ -1,3 +1,7 @@
+// [MITM]
+// hostname = api.weibo.cn, *.uve.weibo.com
+// http-response https?://api.weibo.cn script-path=https://raw.githubusercontent.com/linzx91/Shortcuts/master/Surge_Rule_Updater/Ruleset/Scripts/Weibo.js
+
 const path1 = "/groups/timeline";
 const path2 = "/statuses/unread";
 const path3 = "/statuses/extend";
@@ -142,6 +146,3 @@ if (url.indexOf(path9) != -1) {
 }
 
 result;
-
-// [MITM]
-// hostname = api.weibo.cn
