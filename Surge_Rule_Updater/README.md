@@ -16,7 +16,7 @@ Surge Rule Updater
 <h4 align="center">
 </sub>
 
-[快捷指令 iCloud 链接](https://www.icloud.com/shortcuts/51711c97ca7b4b13bf342e4b83ac816a)
+[快捷指令 iCloud 链接](https://www.icloud.com/shortcuts/8ba2a9c8626f4ad3a88c7e6877628795)
 
 </h4>
 
@@ -26,4 +26,11 @@ Surge Rule Updater
 <br>
 </p>
 
-**本项目基于[ lhie1/Rules ](https://github.com/lhie1/Rules)修改。**
+> **本项目基于[ lhie1/Rules ](https://github.com/lhie1/Rules)修改。**
+
+<br>
+
+<h5 align="center">
+𝑴𝒂𝒊𝒏𝒕𝒂𝒊𝒏𝒆𝒅 𝒃𝒚 𝑨𝒍𝒊𝒈𝒆𝒈𝒆.
+</h5>
+</p>

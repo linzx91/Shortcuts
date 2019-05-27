@@ -18,9 +18,9 @@ Shortcuts
 
 * [**Siri 播报天气**](https://www.icloud.com/shortcuts/e9706f16f0954e8db18d6d8cd56006ed)
 
-* [**Shortcuts TV**](https://www.icloud.com/shortcuts/5829acbc9a2445d1917eb270407becd3)
+* [**Shortcuts TV**](https://www.icloud.com/shortcuts/2fef47b8d579416fac0ebda51349a1ba)
 
-* [**Surge Rule Updater**](https://www.icloud.com/shortcuts/51711c97ca7b4b13bf342e4b83ac816a)
+* [**Surge Rule Updater**](https://www.icloud.com/shortcuts/8ba2a9c8626f4ad3a88c7e6877628795)
 
 * [**微信扫一扫**](https://www.icloud.com/shortcuts/4bbee97286fb40e2bcf26c8e70130207)
 
@@ -33,3 +33,11 @@ Shortcuts
 * [**QQ音乐小工具**](https://www.icloud.com/shortcuts/e688c346dad74eb7b5facca2535e7ce5)
 
 * [**图片处理**](https://www.icloud.com/shortcuts/aa410f7447274f9ea1de195aae85ce3c)
+
+<br>
+</p>
+
+<h5 align="center">
+𝑴𝒂𝒊𝒏𝒕𝒂𝒊𝒏𝒆𝒅 𝒃𝒚 𝑨𝒍𝒊𝒈𝒆𝒈𝒆.
+</h5>
+</p>
