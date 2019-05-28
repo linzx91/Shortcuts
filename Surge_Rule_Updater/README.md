@@ -23,12 +23,24 @@ Surge Rule Updater
 ![](https://raw.githubusercontent.com/linzx91/Shortcuts/master/Images/Rule_Updater_01.png)
 
 </sup>
+<h4 align="center">
+</sub>
+
+[《用户指南》](https://github.com/linzx91/Shortcuts/blob/master/Surge_Rule_Updater/UsersGuide.md)
+
+</h4>
+</sup>
 <br>
 </p>
 
-> [**《用户指南》**](https://github.com/linzx91/Shortcuts/blob/master/Surge_Rule_Updater/UsersGuide.md)
-
 > **本项目基于[ lhie1/Rules ](https://github.com/lhie1/Rules)修改。**
+
+<br>
+
+### 特别声明：
+
+> **本项目是免费提供给个人学习与交流使用，请勿用于非法盈利传播等。
+如若造成法律问题与作者无关，自行承担所有法律责任。**
 
 <br>
 
