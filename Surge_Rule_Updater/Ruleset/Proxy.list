@@ -62,13 +62,9 @@ DOMAIN-SUFFIX,aolcdn.com
 DOMAIN-SUFFIX,apartmentratings.com
 DOMAIN-SUFFIX,apartments.com
 DOMAIN-SUFFIX,api-glb-sea.smoot.apple.com
-DOMAIN-SUFFIX,api-h2.tiktokv.com
 DOMAIN-SUFFIX,api.amplitude.com
 DOMAIN-SUFFIX,api.mixpanel.com
-DOMAIN-SUFFIX,api.tiktokv.com
 DOMAIN-SUFFIX,api.urbandictionary.com
-DOMAIN-SUFFIX,api2-16-h2.musical.ly
-DOMAIN-SUFFIX,api2-19-h2.musical.ly
 DOMAIN-SUFFIX,apigee.com
 DOMAIN-SUFFIX,apk-dl.com
 DOMAIN-SUFFIX,apkfind.com
@@ -523,6 +519,7 @@ DOMAIN-SUFFIX,moves-export.com
 DOMAIN-SUFFIX,mp3buscador.com
 DOMAIN-SUFFIX,msedge.net
 DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,musical.ly
 DOMAIN-SUFFIX,myactimes.com
 DOMAIN-SUFFIX,mycnnews.com
 DOMAIN-SUFFIX,myfontastic.com
@@ -629,6 +626,7 @@ DOMAIN-SUFFIX,proxfree.com
 DOMAIN-SUFFIX,proxifier.com
 DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,psiphon3.com
+DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,pts.org.tw
 DOMAIN-SUFFIX,ptt.cc
 DOMAIN-SUFFIX,pubnub.com
@@ -758,6 +756,7 @@ DOMAIN-SUFFIX,thepiratebay.org
 DOMAIN-SUFFIX,theverge.com
 DOMAIN-SUFFIX,thewgo.org
 DOMAIN-SUFFIX,thinkgeek.com
+DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-SUFFIX,tiltbrush.com
 DOMAIN-SUFFIX,time.com
 DOMAIN-SUFFIX,timeinc.net
