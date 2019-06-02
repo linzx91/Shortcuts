@@ -16,7 +16,7 @@ Surge Rule Updater
 <h4 align="center">
 </sub>
 
-[快捷指令 iCloud 链接](https://www.icloud.com/shortcuts/fa4fdcb71f84480c90c83c35b8fe2e67)
+[快捷指令 iCloud 链接](https://www.icloud.com/shortcuts/70d07c0fa244480fbbfb87b5e6c142c4)
 
 </h4>
 

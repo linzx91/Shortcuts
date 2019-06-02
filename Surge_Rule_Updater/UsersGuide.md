@@ -177,4 +177,4 @@ RULE-SET,https://raw.githubusercontent.com/linzx91/Shortcuts/master/Surge_Rule_U
 
 <br>
 
-如有其它问题或建议请在我的 [GitHub/Issues](https://github.com/linzx91/Shortcuts/issues) 中留言。
+如有其它问题或建议可通过 [Issues](https://github.com/linzx91/Shortcuts/issues) 留下你的意见。
