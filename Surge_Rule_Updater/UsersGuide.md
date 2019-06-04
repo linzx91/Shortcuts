@@ -103,7 +103,7 @@
 <a id="custom_group"></a>
 
 ```
-📺 Netflix = url-test, 🇭🇰 香港 01, 🇭🇰 香港 02, 🇭🇰 香港 03, 🇭🇰 香港 04, 🇭🇰 香港 05, url = http://www.gstatic.com/generate_204, interval = 600
+🎬 Netflix = url-test, 🇭🇰 香港 01, 🇭🇰 香港 02, 🇭🇰 香港 03, 🇭🇰 香港 04, 🇭🇰 香港 05, url = http://www.gstatic.com/generate_204, interval = 600
 ```
 
 <br>
@@ -126,7 +126,7 @@
 ![](https://raw.githubusercontent.com/linzx91/Shortcuts/master/Images/Add_Rules_01.png)
 <br>
 
-**再进入到词典的 "Ruleset" 目录中选择 `添加"新项目"`（如需添加新规则）**
+**再进入到词典的 "Ruleset" 目录中选择 `添加"新项目"`**
 
 ![](https://raw.githubusercontent.com/linzx91/Shortcuts/master/Images/Add_Rules_02.png)
 <br>
@@ -148,7 +148,7 @@
 **规则集的写法如下所示：**
 
 ```
-RULE-SET,https://raw.githubusercontent.com/linzx91/Shortcuts/master/Surge_Rule_Updater/Ruleset/Media/Netflix.list,🎬 Media,update-interval=3600
+RULE-SET,https://raw.githubusercontent.com/linzx91/Shortcuts/master/Surge_Rule_Updater/Ruleset/Media/Netflix.list,🎬 Netflix,update-interval=3600
 ```
 
 [获取更多媒体规则集](https://github.com/linzx91/Shortcuts/tree/master/Surge_Rule_Updater/Ruleset/Media)
