@@ -6,6 +6,7 @@
     * [自定义策略组](#custom_group)
     * [添加代理规则](#addrule)
     * [替换默认规则](#replace)
+    * [更多自定义配置](#custom)
 
 <br>
 
@@ -17,7 +18,8 @@
 <a id="automatic_add_proxy"></a>
 
 > 首先我们需要确定自己使用的机场（代理服务商）是支持 Surge 托管的。然后你需要从服务商的网站中把加密方式和混淆信息等修改成 SS 协议的，因为大多数机场为了方便新手使用，基本上默认都设置为 SSR 协议，但是 Surge 并不支持 SSR 协议！
->> 具体需要怎么改请咨询你的代理服务商。
+> 
+> **具体需要怎么改请咨询你的代理服务商。**
 
 **这里我们随便找一个支持 Surge 托管的机场来作为示范，请看下图：**
 
@@ -119,27 +121,27 @@
 ### 添加代理规则
 <a id="addrule"></a>
 
-首先点击快捷指令右上角的 `⋯` 然后找到 "词典" 的模块；如下图所示
+**首先点击快捷指令右上角的 `⋯` 然后找到 "词典" 的模块；如下图所示**
 
 ![](https://raw.githubusercontent.com/linzx91/Shortcuts/master/Images/Add_Rules_01.png)
 <br>
 
-再进入到词典的 "Ruleset" 目录中选择 `添加"新项目"`（如需添加新规则）
+**再进入到词典的 "Ruleset" 目录中选择 `添加"新项目"`（如需添加新规则）**
 
 ![](https://raw.githubusercontent.com/linzx91/Shortcuts/master/Images/Add_Rules_02.png)
 <br>
 
-类型选择 "词典" ，"键" 可以随便输入一个名称
+**类型选择 "词典" ，"键" 可以随便输入一个名称**
 
 ![](https://raw.githubusercontent.com/linzx91/Shortcuts/master/Images/Add_Rules_03.png)
 <br>
 
-再进入到刚刚添加的词典项目中再添加一个新项目，类型选择 "文本"
+**再进入到刚刚添加的词典项目中再添加一个新项目，类型选择 "文本"**
 
 ![](https://raw.githubusercontent.com/linzx91/Shortcuts/master/Images/Add_Rules_04.png)
 <br>
 
-这里的 "键" 可以不用填，直接在后面的文本中输入规则内容（每个项目只能添加一条规则，建议使用 `list` 规则集。）
+**这里的 "键" 可以不用填，直接在后面的文本中输入规则内容（每个项目只能添加一条规则，建议使用 `list` 规则集。）**
 
 <br>
 
@@ -153,7 +155,7 @@ RULE-SET,https://raw.githubusercontent.com/linzx91/Shortcuts/master/Surge_Rule_U
 
 <br>
 
-最后再将自定义添加的项目全部拖到列表顶部即可生效。
+**最后再将自定义添加的项目全部拖到列表顶部即可生效。**
 
 ![](https://raw.githubusercontent.com/linzx91/Shortcuts/master/Images/Add_Rules_05.png)
 
@@ -167,9 +169,23 @@ RULE-SET,https://raw.githubusercontent.com/linzx91/Shortcuts/master/Surge_Rule_U
 <a id="replace"></a>
 
 > 如果你有第三方规则需求，则可以在词典的 "Ruleset" 目录中找到你要替换的规则，而且只需要将项目中原来的规则地址替换成对应的规则地址即可；但需要注意尽量使用 list 类型的规则来进行替换，避免配置内容出错。
->> RULE-SET,`规则地址`,`策略名`,update-interval=`自动更新间隔时间 (秒)`
+> 
+> RULE-SET,`规则地址`,`策略名`,update-interval=`自动更新间隔时间 (秒)`
 
 ![](https://raw.githubusercontent.com/linzx91/Shortcuts/master/Images/Add_Rules_06.png)
+
+<br>
+
+-------
+
+<br>
+
+### 更多自定义配置
+<a id="custom"></a>
+
+**更多自定义配置请参考下图所示**
+
+![](https://raw.githubusercontent.com/linzx91/Shortcuts/master/Images/Custom.png)
 
 <br>
 
