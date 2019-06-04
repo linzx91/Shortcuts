@@ -1,5 +1,5 @@
 // [MITM]
-// hostname = api.weibo.cn, *.uve.weibo.com
+// hostname = *.uve.weibo.com
 // http-response https?://(sdk|wb)app.uve.weibo.com(/interface/sdk/sdkad.php|/wbapplua/wbpullad.lua) script-path=https://raw.githubusercontent.com/linzx91/Shortcuts/master/Surge_Rule_Updater/Ruleset/Scripts/Weibo_Launch.js
 
 const path1 = "/interface/sdk/sdkad.php";

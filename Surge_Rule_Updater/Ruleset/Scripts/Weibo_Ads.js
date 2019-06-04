@@ -1,6 +1,6 @@
 // [MITM]
-// hostname = api.weibo.cn, *.uve.weibo.com
-// http-response https?://api.weibo.cn script-path=https://raw.githubusercontent.com/linzx91/Shortcuts/master/Surge_Rule_Updater/Ruleset/Scripts/Weibo.js
+// hostname = api.weibo.cn, mapi.weibo.com
+// http-response https?://(api|mapi).weibo.(cn|com)/2(/groups/timeline|/statuses/unread|/statuses/extend|/comments/build_comments|/photo/recommend_list|/stories/video_stream|/statuses/positives/get|/stories/home_list|/profile/statuses|/statuses/friends/timeline|/service/picfeed) script-path=https://raw.githubusercontent.com/linzx91/Shortcuts/master/Surge_Rule_Updater/Ruleset/Scripts/Weibo_Ads.js,max-size=-1
 
 const path1 = "/groups/timeline";
 const path2 = "/statuses/unread";
@@ -11,16 +11,10 @@ const path6 = "/stories/video_stream";
 const path7 = "/statuses/positives/get";
 const path8 = "/stories/home_list";
 const path9 = "/profile/statuses";
+const path10 = "/statuses/friends/timeline";
+const path11 = "/service/picfeed";
 
 var result = body;
-function is_likerecommend(title) {
-    if (title && title.type && title.type == "likerecommend") {
-        return true;
-    } else {
-        return false;
-    }
-}
-
 function filter_timeline() {
     let obj = JSON.parse(body);
     let statuses = obj.statuses;
@@ -40,29 +34,44 @@ function filter_timeline() {
                 }
             }
         }
-
         let i = statuses.length;
         while (i--) {
             let element = statuses[i];
             if (is_likerecommend(element.title)) {
                 statuses.splice(i, 1);
             }
-            if (element.pic_bg_new) {
-                delete element.pic_bg_new;
-                delete element.pic_bg_type;
-            }
         }
-
         if (obj.num) {
             obj.num = obj.statuses.length + ad.length;
             obj.original_num = obj.statuses.length;
         }
     }
-
     if (obj.trends) {
-        obj.trends = [];
+        delete obj.trends;
     }
     result = JSON.stringify(obj);
+}
+
+function filter_comments(datas) {
+    if (datas && datas.length > 0) {
+        let i = datas.length;
+        while (i--) {
+            const element = datas[i];
+            let type = element.type;
+            if (type == 5 || type == 1 || type == 6) {
+                datas.splice(i, 1);
+            }
+        }
+    }
+    return datas;
+}
+
+function is_likerecommend(title) {
+    if (title && title.type && title.type == "likerecommend") {
+        return true;
+    } else {
+        return false;
+    }
 }
 
 if (url.indexOf(path1) != -1) {
@@ -75,22 +84,25 @@ if (url.indexOf(path2) != -1) {
 
 if (url.indexOf(path3) != -1) {
     let obj = JSON.parse(body);
-    delete obj.trend;
+    if (obj.trend) {
+        delete obj.trend;
+    }
     result = JSON.stringify(obj);
 }
 
 if (url.indexOf(path4) != -1) {
     let obj = JSON.parse(body);
-    let datas = obj.datas;
-    if (datas && datas.length > 0) {
-        let i = datas.length;
-        while (i--) {
-            const element = datas[i];
-            let type = element.type;
-            if (type == 5 || type == 1 || type == 6) {
-                datas.splice(i, 1);
-            }
+    obj.recommend_max_id = 0;
+    if (obj.status) {
+        if (obj.top_hot_structs) {
+            obj.max_id = obj.top_hot_structs.call_back_struct.max_id;
+            delete obj.top_hot_structs;
         }
+        if (obj.datas) {
+            obj.datas = filter_comments(obj.datas);
+        }
+    } else {
+        obj.datas = [];
     }
     result = JSON.stringify(obj);
 }
@@ -143,6 +155,14 @@ if (url.indexOf(path9) != -1) {
         }
     }
     result = JSON.stringify(obj);
+}
+
+if (url.indexOf(path10) != -1) {
+    filter_timeline();
+}
+
+if (url.indexOf(path11) != -1) {
+    result = null;
 }
 
 result;
