@@ -1,6 +1,6 @@
 <h1 align="center">
 <sub>
-<img  src="https://raw.githubusercontent.com/linzx91/Shortcuts/master/Images/Shortcuts_logo.png"
+<img  src="./Images/Shortcuts_logo.png"
       height="36"
       width="36">
 </sub>
@@ -14,7 +14,7 @@ Shortcuts
 <br>
 </p>
 
-#### 快捷指令集
+## 快捷指令集
 
 * [**Siri 播报天气**](https://www.icloud.com/shortcuts/e9706f16f0954e8db18d6d8cd56006ed)
 
@@ -34,7 +34,9 @@ Shortcuts
 
 * [**图片处理**](https://www.icloud.com/shortcuts/aa410f7447274f9ea1de195aae85ce3c)
 
-<br>
+* [**百度贴吧签到**](https://www.icloud.com/shortcuts/36e2adea2ef4480585adee835efc6302)
+
+<br />
 </p>
 
 <h5 align="center">
