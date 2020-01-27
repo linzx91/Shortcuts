@@ -16,7 +16,7 @@ Shortcuts
 
 ## 快捷指令集
 
-* [**Siri 播报天气**](https://www.icloud.com/shortcuts/e9706f16f0954e8db18d6d8cd56006ed)
+* [**Siri 播报天气**](https://www.icloud.com/shortcuts/8487bdf2614f4f1398e3f682a4f75804)
 
 * [**Shortcuts TV**](https://www.icloud.com/shortcuts/32b245f6b40d4fb2bb879d1f1e1dfbce)
 
