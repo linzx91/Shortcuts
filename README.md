@@ -18,7 +18,7 @@ Shortcuts
 
 * [**Siri 播报天气**](https://www.icloud.com/shortcuts/8487bdf2614f4f1398e3f682a4f75804)
 
-* [**Shortcuts TV**](https://www.icloud.com/shortcuts/2ef0fb0d8427468f900b7feb6c6f4d96)
+* [**Shortcuts TV**](https://www.icloud.com/shortcuts/d2b1321657234f89a23e92a3ded985ca)
 
 * [**Surge Rule Updater**](https://www.icloud.com/shortcuts/4e68c74a2d634d8e944be7ef0b04374e)
 
