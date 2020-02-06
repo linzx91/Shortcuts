@@ -20,7 +20,7 @@ Shortcuts
 
 * [**Shortcuts TV**](https://www.icloud.com/shortcuts/f018252d96ac416290b1524a6cfc67a9)
 
-* [**Surge Rule Updater**](https://www.icloud.com/shortcuts/4e68c74a2d634d8e944be7ef0b04374e)
+* [**Surge Rule Updater**](https://www.icloud.com/shortcuts/7fc65a1649dc43c897f73ebff061ef9d)
 
 * [**微信扫一扫**](https://www.icloud.com/shortcuts/4bbee97286fb40e2bcf26c8e70130207)
 
